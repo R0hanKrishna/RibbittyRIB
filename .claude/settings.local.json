@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(chmod +x /Users/rkrishna/Documents/RiboSeqULater/scripts/01_trim_adapters.sh)"
-    ]
-  }
-}
